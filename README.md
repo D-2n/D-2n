@@ -1,7 +1,9 @@
 # Dimitrije Zdrale
 
 MSc Artificial Intelligence student at Université Paris-Saclay and École Polytechnique Math & Computer Science graduate.
+
 AI Research intern @ ORAILIX École Polytechnique
+
 I work on applied machine learning systems across scientific ML, neural operators, retrieval/RAG, and computer vision.
 
 ## Selected Work
