@@ -1,6 +1,6 @@
 # Dimitrije Zdrale
-
-MSc Artificial Intelligence student at Université Paris-Saclay and École Polytechnique Math & Computer Science graduate.
+École Polytechnique BSc Math & Computer Science graduate.
+Université Paris-Saclay MSc Artificial Intelligence student.
 
 
 AI Research intern @ ORAILIX École Polytechnique
