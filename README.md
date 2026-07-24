@@ -17,6 +17,7 @@ Developing a neural-operator-based architecture for approximating solutions of h
 - Built models for the LWR traffic equation
 - Benchmarked against WENO-5 numerical solvers
 - Focus: neural operators, GNNs, PDEs, scientific ML
+- https://arxiv.org/abs/2607.20541
 
 ### Physics-Informed Neural Networks for Navier–Stokes
 AI Research & Development Intern, Université Paris-Saclay  
