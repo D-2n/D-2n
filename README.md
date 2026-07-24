@@ -3,7 +3,7 @@
 Université Paris-Saclay MSc Artificial Intelligence student.
 
 
-AI Research intern @ ORAILIX École Polytechnique
+Applied AI @ Microsoft
 
 
 I work on applied machine learning systems across scientific ML, neural operators, retrieval/RAG, and computer vision.
